@@ -1,4 +1,4 @@
-# Build-a-Celestial-Bodies-Database
+# Building-a-Celestial-Bodies-Database
 Building a database of celestial bodies using PostgreSQL for the Relational Database course at freecodecamp
 
 ## Completed tasks:
